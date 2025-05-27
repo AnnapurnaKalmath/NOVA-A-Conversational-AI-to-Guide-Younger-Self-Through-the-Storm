@@ -100,9 +100,10 @@ Nova is a prototype **emotionally intelligent conversational AI** designed to si
 ## 🎬 Demo 
 
 > Demo video and extended Kaggle walkthrough will be linked here.
-![Kaggle Notebook Link](https://www.kaggle.com/code/annapurnakalmath/nova-your-future-self)
-![Blog on Medium](https://medium.com/@saitejhas49/nova-bridging-the-gap-between-todays-doubts-and-tomorrow-s-wisdom-a-generative-ai-case-study-f509c81a2c18)
-![Youtube Vedio](https://www.youtube.com/watch?v=-p9UNS5c7lU)
+
+- ![Kaggle Notebook Link](https://www.kaggle.com/code/annapurnakalmath/nova-your-future-self)
+- ![Blog on Medium](https://medium.com/@saitejhas49/nova-bridging-the-gap-between-todays-doubts-and-tomorrow-s-wisdom-a-generative-ai-case-study-f509c81a2c18)
+- ![Youtube Vedio](https://www.youtube.com/watch?v=-p9UNS5c7lU)
 ---
 
 ## 📚 Acknowledgements

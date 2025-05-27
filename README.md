@@ -1,7 +1,5 @@
-# NOVA-A-Conversational-AI-to-Guide-Younger-Self-Through-the-Storm
-Nova is a next-generation emotionally intelligent AI designed not just to assist users, but to evolve with them. At its core lies a long-term memory architecture that blends both hardcoded user profiles and continuously adapting emotional context embeddings, allowing Nova to deliver deeply personalized experiences.
-
 # NOVA: A Conversational AI Mirror for Emotional Overload and Self-Evolution
+Nova is a next-generation emotionally intelligent AI designed not just to assist users, but to evolve with them. At its core lies a long-term memory architecture that blends both hardcoded user profiles and continuously adapting emotional context embeddings, allowing Nova to deliver deeply personalized experiences.
 
 > "**Not just a chatbot — a future-self that grows with you.**"
 
@@ -99,12 +97,12 @@ Nova is a prototype **emotionally intelligent conversational AI** designed to si
 
 ---
 
-## 🎬 Demo (Coming Soon)
+## 🎬 Demo 
 
 > Demo video and extended Kaggle walkthrough will be linked here.
-[!Kaggle Notebook Link](https://www.kaggle.com/code/annapurnakalmath/nova-your-future-self)
-[!Blog on Medium](https://medium.com/@saitejhas49/nova-bridging-the-gap-between-todays-doubts-and-tomorrow-s-wisdom-a-generative-ai-case-study-f509c81a2c18)
-[!Youtube Vedio](https://www.youtube.com/watch?v=-p9UNS5c7lU)
+![Kaggle Notebook Link](https://www.kaggle.com/code/annapurnakalmath/nova-your-future-self)
+![Blog on Medium](https://medium.com/@saitejhas49/nova-bridging-the-gap-between-todays-doubts-and-tomorrow-s-wisdom-a-generative-ai-case-study-f509c81a2c18)
+![Youtube Vedio](https://www.youtube.com/watch?v=-p9UNS5c7lU)
 ---
 
 ## 📚 Acknowledgements

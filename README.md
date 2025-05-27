@@ -116,8 +116,7 @@ Huge thanks to the resources around **ChromaDB**, **RAG**, **sentiment analysis*
 ## 👩‍💻 Built By
 
 **Annapurna N Kalmath**  
-Final-year ECE student | Aspiring AI-Neurotech researcher  
-> *"Building the AI that speaks not to your mind, but your soul."*
+Final-year ECE student | Aspiring AI-Neuroscience researcher  
 
 ---
 
@@ -130,6 +129,6 @@ Final-year ECE student | Aspiring AI-Neurotech researcher
 
 ## 🧠 License
 
-MIT (or add your preferred license)
+MIT 
 
 
